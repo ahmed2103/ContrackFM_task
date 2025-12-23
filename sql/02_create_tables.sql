@@ -1,6 +1,3 @@
--- 1. Database Creation:
-CREATE DATABASE Company;
-
 -- Selecting the Database
 USE Company;
 
