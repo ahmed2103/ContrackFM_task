@@ -1,84 +1,33 @@
-CompanyAPI – Technical Assessment
+# CompanyAPI – Technical Assessment
 
-This project is an ASP.NET Core Web API that demonstrates database design, SQL scripts, and RESTful APIs for managing employees, departments, customers, orders, and products.
+CompanyAPI is an **ASP.NET Core Web API** project designed as a technical assessment.  
+It demonstrates **database design**, **SQL scripting**, and **RESTful API development** for managing:
 
-📌 Prerequisites
+- Departments  
+- Employees  
+- Customers  
+- Products  
+- Orders  
 
-Before running the project, make sure you have:
+The project focuses on clean architecture, relational data modeling, and practical API queries.
 
-.NET SDK 8.0
+---
 
-SQL Server (LocalDB or SQL Server Express is fine)
+## 📌 Prerequisites
 
-Visual Studio 2022 or any IDE that supports .NET
+Before running the project, ensure you have the following installed:
 
-Git
+- **.NET SDK 8.0**
+- **SQL Server** (LocalDB or SQL Server Express is sufficient)
+- **Visual Studio 2022** (or any IDE that supports .NET 8)
+- **Git**
 
-🗄️ Database Setup
+---
 
-Open SQL Server Management Studio (SSMS).
+## 🗄️ Database Setup
 
-Create a new database named:
+1. Open **SQL Server Management Studio (SSMS)**.
+2. Create a new database:
 
+```sql
 CREATE DATABASE Company;
-
-
-Navigate to the SQL_scripts folder in the repository.
-
-Execute the SQL scripts in order to:
-
-Create tables:
-
-Departments
-
-Employees
-
-Customers
-
-Products
-
-Orders
-
-Insert the required seed data.
-
-⚠️ Make sure tables with foreign keys (e.g. Departments) are created before dependent tables (e.g. Employees).
-
-🔧 Configuration
-
-Open appsettings.json.
-
-Update the connection string to match your SQL Server instance:
-
-"ConnectionStrings": {
-  "DefaultConnection": "Server=.;Database=Company;Trusted_Connection=True;TrustServerCertificate=True"
-}
-
-▶️ Run the Project
-
-From the project root directory:
-
-dotnet restore
-dotnet run
-
-
-Or simply run the project from Visual Studio using IIS Express or https.
-
-🌐 Available APIs
-
-Once the application is running, you can test the APIs using Swagger:
-
-https://localhost:{port}/swagger
-
-Endpoints
-
-Get All Employees
-GET /api/employees
-
-Get All Customers with Orders
-GET /api/customers
-
-Get All Orders with Product Names
-GET /api/orders
-
-Sum of Employee Salaries by Department
-GET /api/salary-sum
