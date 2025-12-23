@@ -56,7 +56,7 @@ Test all endpoints directly from Swagger UI:
 
 - `GET /api/Employee` - Get all employees with department names
 - `GET /api/Customer` - Get all customers with their orders
-- `GET /api/Orders` - Get all orders with product names (descending order)
+- `GET /api/Order` - Get all orders with product names (descending order)
 - `GET /api/salary-sum` - Get sum of salaries by department
 
 ## Using Swagger UI
