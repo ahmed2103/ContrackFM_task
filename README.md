@@ -33,7 +33,7 @@
 1. **Clone the Repository**
 ```bash
    git clone <repository-url>
-   cd <project-folder>
+   cd CompanyAPI
 ```
 
 2. **Restore Dependencies**
