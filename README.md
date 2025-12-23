@@ -65,6 +65,3 @@ Test all endpoints directly from Swagger UI:
 2. Click the "Try it out" button
 3. Click "Execute" to test the API
 4. View the response below with status code and data
-
-## Alternative Testing Methods
-
