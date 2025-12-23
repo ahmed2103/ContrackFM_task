@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ContrackFM_task\\CompanyAPI\\",
+  "WorkspaceRootPath": "C:\\ContrackFM_task\\CompanyAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\companyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\companyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\dtos\\public class departmentsalarysumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\public class departmentsalarysumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\dtos\\departmentsalarysumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\departmentsalarysumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\dtos\\customerorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\customerorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|d:\\contrackfm_task\\companyapi\\companyapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\companyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\companyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\dtos\\customerorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\customerorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|c:\\contrackfm_task\\companyapi\\companyapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{18E26136-D6C0-46FD-A0E1-6557470D2FBF}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -90,104 +90,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "public class DepartmentSalarySumDTO.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\public class DepartmentSalarySumDTO.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\DTOs\\public class DepartmentSalarySumDTO.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\public class DepartmentSalarySumDTO.cs",
-              "RelativeToolTip": "CompanyAPI\\DTOs\\public class DepartmentSalarySumDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T17:59:38.954Z"
+              "WhenOpened": "2025-12-23T17:01:09.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:00:04.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyAPI.csproj",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\CompanyAPI.csproj",
+              "RelativeDocumentMoniker": "CompanyAPI\\CompanyAPI.csproj",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\CompanyAPI.csproj",
+              "RelativeToolTip": "CompanyAPI\\CompanyAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T13:37:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Program.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Program.cs",
+              "RelativeToolTip": "CompanyAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:41:26.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\Models\\Customer.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Customer.cs",
-              "RelativeToolTip": "CompanyAPI\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T15:42:13.78Z",
+              "WhenOpened": "2025-12-23T18:05:16.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "CompanyAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "DepartmentSalarySumDTO.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\DepartmentSalarySumDTO.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\DTOs\\DepartmentSalarySumDTO.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\DepartmentSalarySumDTO.cs",
+              "RelativeToolTip": "CompanyAPI\\DTOs\\DepartmentSalarySumDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T13:37:58.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "CompanyAPI\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T17:01:09.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "CompanyAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T16:00:04.556Z",
+              "WhenOpened": "2025-12-23T17:59:38.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CompanyAPI.csproj",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\CompanyAPI.csproj",
-              "RelativeDocumentMoniker": "CompanyAPI\\CompanyAPI.csproj",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\CompanyAPI.csproj",
-              "RelativeToolTip": "CompanyAPI\\CompanyAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-23T13:37:54.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "CompanyAPI\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAAAzAAAAAAAAAA==",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T18:05:16.711Z"
+              "WhenOpened": "2025-12-23T13:37:58.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CompanyAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:42:13.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Department.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Department.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Department.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Models\\Department.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Department.cs",
               "RelativeToolTip": "CompanyAPI\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CompanyContext.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\CompanyContext.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\CompanyContext.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Models\\CompanyContext.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\CompanyContext.cs",
               "RelativeToolTip": "CompanyAPI\\Models\\CompanyContext.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MapperProfile.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Mapper\\MapperProfile.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Mapper\\MapperProfile.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Mapper\\MapperProfile.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Mapper\\MapperProfile.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Mapper\\MapperProfile.cs",
               "RelativeToolTip": "CompanyAPI\\Mapper\\MapperProfile.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwBYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CustomerDTO.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerDTO.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerDTO.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\DTOs\\CustomerDTO.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerDTO.cs",
               "RelativeToolTip": "CompanyAPI\\DTOs\\CustomerDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Models\\Employee.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Employee.cs",
               "RelativeToolTip": "CompanyAPI\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Order.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Models\\Order.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Order.cs",
               "RelativeToolTip": "CompanyAPI\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Models\\Product.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Models\\Product.cs",
               "RelativeToolTip": "CompanyAPI\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CustomerOrderDTO.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerOrderDTO.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerOrderDTO.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\DTOs\\CustomerOrderDTO.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerOrderDTO.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\CustomerOrderDTO.cs",
               "RelativeToolTip": "CompanyAPI\\DTOs\\CustomerOrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +288,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "OrderDTO.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\OrderDTO.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\OrderDTO.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\DTOs\\OrderDTO.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\OrderDTO.cs",
               "RelativeToolTip": "CompanyAPI\\DTOs\\OrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\DTOs\\EmployeeDTO.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\DTOs\\EmployeeDTO.cs",
               "RelativeToolTip": "CompanyAPI\\DTOs\\EmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,22 +313,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CompanyAPI\\Program.cs",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Program.cs",
-              "RelativeToolTip": "CompanyAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T13:41:26.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CompanyAPI\\appsettings.json",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\appsettings.json",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\appsettings.json",
               "RelativeToolTip": "CompanyAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -329,9 +326,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "efpt.config.json",
-              "DocumentMoniker": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\efpt.config.json",
+              "DocumentMoniker": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\efpt.config.json",
               "RelativeDocumentMoniker": "CompanyAPI\\efpt.config.json",
-              "ToolTip": "D:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\efpt.config.json",
+              "ToolTip": "C:\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\efpt.config.json",
               "RelativeToolTip": "CompanyAPI\\efpt.config.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
