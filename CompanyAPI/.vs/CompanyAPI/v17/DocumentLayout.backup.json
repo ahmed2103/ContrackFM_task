@@ -102,8 +102,7 @@
               "RelativeToolTip": "CompanyAPI\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T17:01:09.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T17:01:09.24Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "CompanyAPI\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T16:00:04.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T16:00:04.556Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "CompanyAPI\\CompanyAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-23T13:37:54.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T13:37:54.066Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "CompanyAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAD4vwUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T13:41:26.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T13:41:26.931Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,8 @@
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Hasona\\Desktop\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Hasona\\Desktop\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs*",
-              "RelativeToolTip": "CompanyAPI\\Controllers\\DepartmentController.cs*",
+              "ToolTip": "C:\\Users\\Hasona\\Desktop\\ContrackFM_task\\CompanyAPI\\CompanyAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAcwBcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T18:05:16.711Z",
@@ -167,8 +163,7 @@
               "RelativeToolTip": "CompanyAPI\\DTOs\\DepartmentSalarySumDTO.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T17:59:38.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T17:59:38.954Z"
             },
             {
               "$type": "Document",
