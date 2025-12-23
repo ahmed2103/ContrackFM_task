@@ -21,7 +21,7 @@ namespace CompanyAPI.Controllers
         public async Task<IActionResult> GetSalarySumByDepartment()
         {
             var result = await _context.Departments
-                .Select(d => new DepartmentSalarySumDTO()
+                .Select(d => new DepartmentSalarySumDTO
                 {
                     DepartmentId = d.Id,
                     DepartmentName = d.Name,
