@@ -32,21 +32,31 @@
 
 1. **Clone the Repository**
 ```bash
-   git clone <repository-url>
+   git clone 
    cd CompanyAPI
 ```
 
-2. **Restore Dependencies**
+2. **Navigate to Project Directory**
+```bash
+   cd CompanyAPI
+```
+
+3. **Restore Dependencies**
 ```bash
    dotnet restore
 ```
 
-3. **Run the Application**
+4. **Build the Application**
+```bash
+   dotnet build
+```
+
+5. **Run the Application**
 ```bash
    dotnet run
 ```
 
-4. **Access the API via Swagger**
+6. **Access the API via Swagger**
    - Open your browser and navigate to: `https://localhost:7068/swagger/index.html`
    - You will see the interactive Swagger UI with all available endpoints
 
